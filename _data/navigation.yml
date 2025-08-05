@@ -3,6 +3,8 @@ main:
     url: /blog/
   - title: "Resume"
     url: /resume/
+  - title: "Hobbies"
+    url: /hobbies/
   - title: "Contact"
     url: /contact/
 
