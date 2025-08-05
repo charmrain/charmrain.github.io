@@ -5,3 +5,12 @@ main:
     url: /resume/
   - title: "Contact"
     url: /contact/
+
+# Sidebar - displays under Author Profile
+my_sidebar:
+  - title: Archives
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/
