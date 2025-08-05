@@ -97,7 +97,7 @@ author_profile: true
 
 ## Education
 
-- **Executive Master of Engineering Management**, St. Cloud State University, MN (Expected 2024)
+- **Executive Master of Engineering Management**, St. Cloud State University, MN (2024)
 - **M.S. Management Science and Engineering**, Tongji University, Shanghai (2010)
 - **B.S. Engineering Management**, Hunan University, Changsha (2007)
 
