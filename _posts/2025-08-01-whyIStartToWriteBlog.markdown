@@ -2,7 +2,7 @@
 layout: single
 title:  "Why I start to write blog"
 date:   2025-08-01 00:31:59 -0500
-categories: blog, opinion
+categories: [blog, opinion]
 ---
 
 # The reason I start to write
