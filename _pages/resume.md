@@ -3,6 +3,8 @@ layout: single
 title: "Resume"
 permalink: /resume/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 
@@ -23,7 +25,7 @@ author_profile: true
 
 ---
 
-## EXPERIENCE
+## WORKING EXPERIENCE
 
 ### **Performixbiz LLC**
 

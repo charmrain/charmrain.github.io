@@ -5,6 +5,8 @@ date: 2025-08-07 00:31:59 -0500
 categories: [blog, opinion, travel]
 author_profile: true
 read_time: true
+toc: true
+toc_sticky: true
 ---
 
 ## Tour to north Dakota
