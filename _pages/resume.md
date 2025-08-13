@@ -5,8 +5,10 @@ permalink: /resume/
 author_profile: true
 toc: true
 toc_sticky: true
+lang: en
 ---
 
+[🇬🇧 English](/resume/) | [🇨🇳 中文](/resume-zh/)
 
 
 # Raymond An
