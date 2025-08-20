@@ -15,9 +15,8 @@ toc_sticky: true
 
 ---
 ### Theodore Roosevelt NP South unit
-<!-- Moorhead is a city in Minnesota that borders North Dakota, separated by the Red River. My first stop was the **Hjemkomst Center** — a museum with a $15 per adult admission fee.  
-It features two main exhibits with guided tours. -->
-to be updated
+
+South Unit is the most popular destination in the whole THNP area. The visting center lies in the entrance. A $30 permit per vehicle can grant the entry for a week...
 
 ---
 
